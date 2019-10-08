@@ -1,3 +1,4 @@
 Here is some text in my test file...
-Adding more files
+practice-merging
+Add some more texts
 Adding even more text
