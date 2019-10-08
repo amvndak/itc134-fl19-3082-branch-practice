@@ -1,2 +1,3 @@
 Here is some text in my test file...
 Adding more files
+Adding even more text
